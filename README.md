@@ -8,7 +8,7 @@ A personal UI lab by [Jianmiao](https://github.com/Jianmiao). This repository co
 
 A clean academy-tech inspired login screen for an AI relay station. The design is an original study: it borrows only high-level qualities such as airy spacing, a cool white/blue palette, tablet-like touch rhythm and a restrained flat-2.0 material language.
 
-![AI Relay Station login](https://aka.doubaocdn.com/s/otFnRCgACU)
+![AI Relay Station login](assets/ai-relay-login.png)
 
 ### Design notes
 
@@ -20,6 +20,7 @@ A clean academy-tech inspired login screen for an AI relay station. The design i
 
 ## Structure
 
+- `assets/ai-relay-login.png` — login screen preview.
 - `docs/ai-relay-login.md` — design rationale and UI specification.
 - `docs/ui-skill-summary.md` — reusable design language summary.
 - `LICENSE` — MIT.
